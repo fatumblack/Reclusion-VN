@@ -15,3 +15,5 @@ Reclusion — короткая игра, занимающая примерно 3
 Платформы: Windows, macOS, Linux
 
 Доступные языки:  Русский, Украинский (скоро), Английский (скоро)
+
+<img src="https://github.com/fatumblack/Reclusion-VN/blob/main/screenshots.png">
